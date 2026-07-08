@@ -1,0 +1,12 @@
+{
+  "categorias": [
+    { "id": "1", "nome": "Camisetas" },
+    { "id": "2", "nome": "Calças" },
+    { "id": "3", "nome": "Vestidos" }
+  ],
+  "pecas": [
+    { "id": "1", "nome": "Camiseta Básica Branca", "preco": 49.9, "categoriaId": "1" },
+    { "id": "2", "nome": "Calça Jeans Azul", "preco": 89.9, "categoriaId": "2" },
+    { "id": "3", "nome": "Vestido Floral", "preco": 119.9, "categoriaId": "3" }
+  ]
+}
